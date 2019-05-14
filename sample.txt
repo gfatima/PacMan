@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿When I was growing up, my dad had the best job I could possibly imagine: 
 	He was an arcade game and pinball technician. 	
 	For me, that meant summer trips through Poland’s coastal cities with their seasonal 
@@ -11,5 +12,11 @@ little violence and everlasting fun.
 Today, on PAC-MAN’s 30th birthday, you can rediscover some of your 8-bit memories—or meet PAC-MAN for the first 
 time—through our first-ever playable Google doodle. To play the game, go to google.com during the next 48 hours (because it’s 
 too cool to keep for just one day) and either press the “Insert Coin” button or just wait for a few seconds.
+=======
+When I was growing up, my dad had the best job I could possibly imagine: he was an arcade game and 
+pinball technician. For me, that meant summer trips through Poland’s coastal cities with their seasonal 
+arcade parlors; peeking inside cabinets to learn programming and engineering secrets; and—of 
+course—free games!
+>>>>>>> fef71b2d38610a646b03db679e684613e74e7422
 
 
