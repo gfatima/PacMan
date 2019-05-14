@@ -1,9 +1,21 @@
-When I was growing up, my dad had the best job I could possibly imagine: he was an arcade game and pinball technician. For me, that meant summer trips through Polandís coastal cities with their seasonal arcade parlors; peeking inside cabinets to learn programming and engineering secrets; andóof courseófree games!
+When I was growing up, my dad had the best job I could possibly imagine: he was an arcade game and pinball technician. 
+For me, that meant summer trips through Poland‚Äôs coastal cities with their seasonal arcade parlors; peeking inside 
+cabinets to learn programming and engineering secrets; and‚Äîof course‚Äîfree games!
 
-One of my favorites was PAC-MAN, whose popularity transcended the geopolitical barriers of that time. During the heyday of space shooters, T?ru Iwataniís creation stood out as one of the first video games aimed at a broader audience, with a cute story of pizza-shaped character gobbling dots in a maze, colorful (literally!) characters, friendly design, very little violence and everlasting fun.
+One of my favorites was PAC-MAN, whose popularity transcended the geopolitical barriers of that time. During the heyday 
+of space shooters, T?ru Iwatani‚Äôs creation stood out as one of the first video games aimed at a broader audience, with 
+a cute story of pizza-shaped character gobbling dots in a maze, colorful (literally!) characters, friendly design, very 
+little violence and everlasting fun.
 
-Today, on PAC-MANís 30th birthday, you can rediscover some of your 8-bit memoriesóor meet PAC-MAN for the first timeóthrough our first-ever playable Google doodle. To play the game, go to google.com during the next 48 hours (because itís too cool to keep for just one day) and either press the ìInsert Coinî button or just wait for a few seconds.
+Today, on PAC-MAN‚Äôs 30th birthday, you can rediscover some of your 8-bit memories‚Äîor meet PAC-MAN for the first 
+time‚Äîthrough our first-ever playable Google doodle. To play the game, go to google.com during the next 48 hours (because it‚Äôs 
+too cool to keep for just one day) and either press the ‚ÄúInsert Coin‚Äù button or just wait for a few seconds.
 
-Google doodler Ryan Germick and I made sure to include PAC-MANís original game logic, graphics and sounds, bring back ghostsí individual personalities, and even recreate original bugs from this 1980ís masterpiece. We also added a little easter egg: if you throw in another coin, Ms. PAC-MAN joins the party and you can play together with someone else (PAC-MAN is controlled with arrow keys or by clicking on the maze, Ms. PAC-MAN using the WASD keys).
+Google doodler Ryan Germick and I made sure to include PAC-MAN‚Äôs original game logic, graphics and sounds, bring back ghosts‚Äô 
+individual personalities, and even recreate original bugs from this 1980‚Äôs masterpiece. We also added a little easter egg: 
+if you throw in another coin, Ms. PAC-MAN joins the party and you can play together with someone else (PAC-MAN is controlled 
+with arrow keys or by clicking on the maze, Ms. PAC-MAN using the WASD keys).
  
-PAC-MAN seems like a natural fit for the Google homepage. Theyíre both deceptively straightforward, carefully hiding their complexity under the hood. Thereís a light-hearted, human touch to both of them. And we can only hope you find using Google at least a quarter as enjoyable as eating dots and chasing ghosts. You know, without actually needing any quarters.
+PAC-MAN seems like a natural fit for the Google homepage. They‚Äôre both deceptively straightforward, carefully hiding their 
+complexity under the hood. There‚Äôs a light-hearted, human touch to both of them. And we can only hope you find using Google
+at least a quarter as enjoyable as eating dots and chasing ghosts. You know, without actually needing any quarters.
