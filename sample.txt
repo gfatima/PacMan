@@ -1,20 +1,12 @@
-When I was growing up, my dad had the best job I could possibly imagine: he was an arcade game and pinball technician. 
-For me, that meant summer trips through Poland’s coastal cities with their seasonal arcade parlors; peeking inside 
-cabinets to learn programming and engineering secrets; and—of course—free games!
+When I was growing up, my dad had the best job I could possibly imagine: he was an arcade game and 
+pinball technician. For me, that meant summer trips through Poland’s coastal cities with their seasonal 
+arcade parlors; peeking inside cabinets to learn programming and engineering secrets; and—of 
+course—free games!
 
-One of my favorites was PAC-MAN, whose popularity transcended the geopolitical barriers of that time. During the heyday 
-of space shooters, T?ru Iwatani’s creation stood out as one of the first video games aimed at a broader audience, with 
-a cute story of pizza-shaped character gobbling dots in a maze, colorful (literally!) characters, friendly design, very 
-little violence and everlasting fun.
-
-Today, on PAC-MAN’s 30th birthday, you can rediscover some of your 8-bit memories—or meet PAC-MAN for the first 
-time—through our first-ever playable Google doodle. To play the game, go to google.com during the next 48 hours (because it’s 
-too cool to keep for just one day) and either press the “Insert Coin” button or just wait for a few seconds.
-
-Google doodler Ryan Germick and I made sure to include PAC-MAN’s original game logic, graphics and sounds, bring back ghosts’ 
-individual personalities, and even recreate original bugs from this 1980’s masterpiece. We also added a little easter egg: 
-if you throw in another coin, Ms. PAC-MAN joins the party and you can play together with someone else (PAC-MAN is controlled 
-with arrow keys or by clicking on the maze, Ms. PAC-MAN using the WASD keys).
+One of my favorites was PAC-MAN, whose popularity transcended the geopolitical barriers of that time. 
+During the heyday of space shooters, T?ru Iwatani’s creation stood out as one of the first video games 
+aimed at a broader audience, with a cute story of pizza-shaped character gobbling dots in a maze, 
+colorful (literally!) characters, friendly design, very little violence and everlasting fun.
  
 PAC-MAN seems like a natural fit for the Google homepage. They’re both deceptively straightforward, carefully hiding their 
 complexity under the hood. There’s a light-hearted, human touch to both of them. And we can only hope you find using Google
