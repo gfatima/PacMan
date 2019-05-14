@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿
+=======
+
+>>>>>>> 5eb2b92c2d9bf0c25d50cb6da76465179cd7f060
 ﻿When I was growing up, my dad had the best job I could possibly imagine: 
 he was an arcade game and pinball technician. 	
 gor me, that meant summer trips through Poland’s coastal cities with their seasonal 
@@ -9,8 +13,19 @@ of space shooters, T?ru Iwatani’s creation stood out as one of the first video
 a cute story of pizza-shaped character gobbling dots in a maze, colorful (literally!) characters, friendly design, very 
 little violence and everlasting fun.
 
+<<<<<<< HEAD
 
 
+=======
+Today, on PAC-MAN’s 30th birthday, you can rediscover some of your 8-bit memories—or meet PAC-MAN for the first 
+time—through our first-ever playable Google doodle. To play the game, go to google.com during the next 48 hours (because it’s 
+too cool to keep for just one day) and either press the “Insert Coin” button or just wait for a few seconds.
+
+When I was growing up, my dad had the best job I could possibly imagine: he was an arcade game and 
+pinball technician. For me, that meant summer trips through Poland’s coastal cities with their seasonal 
+arcade parlors; peeking inside cabinets to learn programming and engineering secrets; and—of 
+course—free games!
+>>>>>>> 5eb2b92c2d9bf0c25d50cb6da76465179cd7f060
 
 
 
