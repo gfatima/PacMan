@@ -1,22 +1,16 @@
-<<<<<<< HEAD
+﻿
 ﻿When I was growing up, my dad had the best job I could possibly imagine: 
-	He was an arcade game and pinball technician. 	
-	For me, that meant summer trips through Poland’s coastal cities with their seasonal 
-	arcade parlors; peeking inside cabinets to learn programming and engineering secrets; and—of course—free games!
+he was an arcade game and pinball technician. 	
+gor me, that meant summer trips through Poland’s coastal cities with their seasonal 
+arcade parlors; peeking inside cabinets to learn programming and engineering secrets; and—of course—free games!
 
-	One of my favorites was PAC-MAN, whose popularity transcended the geopolitical barriers of that time. During the heyday 
+One of my favorites was PAC-MAN, whose popularity transcended the geopolitical barriers of that time. During the heyday 
 of space shooters, T?ru Iwatani’s creation stood out as one of the first video games aimed at a broader audience, with 
 a cute story of pizza-shaped character gobbling dots in a maze, colorful (literally!) characters, friendly design, very 
 little violence and everlasting fun.
 
-Today, on PAC-MAN’s 30th birthday, you can rediscover some of your 8-bit memories—or meet PAC-MAN for the first 
-time—through our first-ever playable Google doodle. To play the game, go to google.com during the next 48 hours (because it’s 
-too cool to keep for just one day) and either press the “Insert Coin” button or just wait for a few seconds.
-=======
-When I was growing up, my dad had the best job I could possibly imagine: he was an arcade game and 
-pinball technician. For me, that meant summer trips through Poland’s coastal cities with their seasonal 
-arcade parlors; peeking inside cabinets to learn programming and engineering secrets; and—of 
-course—free games!
->>>>>>> fef71b2d38610a646b03db679e684613e74e7422
+
+
+
 
 
